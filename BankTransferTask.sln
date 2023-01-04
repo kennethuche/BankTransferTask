@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTransferTask", "BankTransferTask.csproj", "{72F88CE5-2341-443A-9A6D-7CB21E4613B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankTransferTask.Core", "..\BankTransferTask.Core\BankTransferTask.Core.csproj", "{D2DFE5DC-34A0-4279-89BC-F0075C304F3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72F88CE5-2341-443A-9A6D-7CB21E4613B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F88CE5-2341-443A-9A6D-7CB21E4613B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F88CE5-2341-443A-9A6D-7CB21E4613B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F88CE5-2341-443A-9A6D-7CB21E4613B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2DFE5DC-34A0-4279-89BC-F0075C304F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2DFE5DC-34A0-4279-89BC-F0075C304F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2DFE5DC-34A0-4279-89BC-F0075C304F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2DFE5DC-34A0-4279-89BC-F0075C304F3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F16A309-A03F-44C0-95DE-1D82C9F052F8}
+	EndGlobalSection
+EndGlobal
